@@ -1,4 +1,4 @@
-package com.microcontrollerbg.irdroid;
+package com.builder.builderremote;
 
 import java.io.BufferedInputStream;
 import java.io.File;
